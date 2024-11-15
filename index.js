@@ -43,4 +43,4 @@ client.on("interactionCreate", async interaction => {
     }
 });
 
-client.login("") //token bot
+client.login("MTMwNzAxNTgwMzQ5NzA5MTIxNA.Gu4_c1.y_T9mkJgJnilum88edDrj1ZkCDZWMo5r49yQBg") //token bot
